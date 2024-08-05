@@ -12,7 +12,9 @@
     position: fixed;
 
 }
-
+.mm {
+    width: 100%;
+}
 .poto {
     width: 50%;
 }
